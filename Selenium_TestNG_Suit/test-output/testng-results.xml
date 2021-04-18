@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2020-10-03T02:37:10Z" finished-at="2020-10-03T02:37:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2020-10-03T02:37:10Z" finished-at="2020-10-03T02:37:10Z">
+      <class name="TestNG_pack.Demo1_TestNG_AnnotSeq2">
+        <test-method status="PASS" signature="BC2()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq2@51081592]" name="BC2" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq2@51081592]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="A2()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq2@51081592]" name="A2" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq2@51081592]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="AC2()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq2@51081592]" name="AC2" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC2 -->
+        <test-method status="PASS" signature="AT2()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq2@51081592]" name="AT2" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT2 -->
+        <test-method status="PASS" signature="BS1()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq2@51081592]" name="BS1" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS1 -->
+      </class> <!-- TestNG_pack.Demo1_TestNG_AnnotSeq2 -->
+      <class name="TestNG_pack.Demo1_TestNG_AnnotSeq1">
+        <test-method status="PASS" signature="BS1()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq1@396a51ab]" name="BS1" is-config="true" duration-ms="16" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS1 -->
+        <test-method status="PASS" signature="BT1()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq1@396a51ab]" name="BT1" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT1 -->
+        <test-method status="PASS" signature="A1()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq1@396a51ab]" name="A1" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A1 -->
+        <test-method status="PASS" signature="BC1()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq1@396a51ab]" name="BC1" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC1 -->
+        <test-method status="PASS" signature="AC1()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq1@396a51ab]" name="AC1" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq1@396a51ab]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNG_pack.Demo1_TestNG_AnnotSeq1@396a51ab]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-10-03T08:07:10Z" finished-at="2020-10-03T08:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+      </class> <!-- TestNG_pack.Demo1_TestNG_AnnotSeq1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
